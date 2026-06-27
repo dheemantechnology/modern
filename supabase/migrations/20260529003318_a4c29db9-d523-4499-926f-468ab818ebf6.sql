@@ -1,0 +1,2 @@
+ALTER TABLE public.vehicles ADD COLUMN IF NOT EXISTS rate_tiers jsonb NOT NULL DEFAULT '[]'::jsonb;
+COMMENT ON COLUMN public.vehicles.rate_tiers IS 'Array of {min_days:int, max_days:int|null, daily_rate:number} tiers. Picked by current rental days; falls back to vehicles.daily_rate.';

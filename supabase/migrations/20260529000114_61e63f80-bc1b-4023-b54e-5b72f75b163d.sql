@@ -1,0 +1,1 @@
+DROP FUNCTION IF EXISTS public.bump_campaign_impression(text);

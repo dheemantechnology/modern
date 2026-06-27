@@ -1,0 +1,12 @@
+# Modern Multi Services
+
+> Somaliland's largest and most trusted car rental service, based in Hargeisa. Luxury SUVs, Mini SUVs and Sedan cars with transparent USD pricing, mobile-money payments and a 24/7 hotline.
+
+Modern Multi Services rents Toyota Land Cruisers, RAV4s, Harriers, the Mazda CX-5, Toyota Noah and other vehicles for short and long-term use across Somaliland — including airport pickup at Egal International, executive transfers in Hargeisa, and upcountry trips to Berbera, Laas Geel and beyond. All rentals follow Shari'a-compliant contracts with bilingual paperwork.
+
+## Pages
+
+- [Home](/): Overview of the fleet, services, pricing tiers and how booking works.
+- [About](/about): Company story, mission, values and the team behind Modern Multi Services.
+- [Fleet](/fleet): Full list of vehicles available for rent in Hargeisa with starting prices and specs.
+- [Contact](/contact): Hotline 3032, WhatsApp, email and the Durdur Building office in Hargeisa.

@@ -1,0 +1,1 @@
+REVOKE EXECUTE ON FUNCTION public.sync_fleet_unit_on_booking() FROM PUBLIC, anon, authenticated;
